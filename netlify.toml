@@ -1,5 +1,5 @@
 [build]
-  publish = "./dist/{{PROJECT_NAME}}"
+  publish = "./dist/todo-webapp"
   command = "npm run build"
 
 [[redirects]]

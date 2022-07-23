@@ -4,7 +4,7 @@ pipeline {
 
     environment {
         DOCKER_HUB = 'nguyenchicuong2402'
-        IMAGE_NAME = '{{PROJECT_NAME}}'
+        IMAGE_NAME = 'todo-webapp'
     }
 
     stages {

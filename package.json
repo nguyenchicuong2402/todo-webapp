@@ -1,5 +1,5 @@
 {
-  "name": "{{PROJECT_NAME}}",
+  "name": "todo-webapp",
   "version": "1.0.0",
   "author": {
     "name": "Nguyễn Chí Cường",
@@ -11,7 +11,7 @@
     "start": "ng serve",
     "build": "ng build",
     "build:stats": "ng build --stats-json",
-    "analyze": "webpack-bundle-analyzer dist/{{PROJECT_NAME}}/stats.json",
+    "analyze": "webpack-bundle-analyzer dist/todo-webapp/stats.json",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "prettier": "npx prettier --write .",

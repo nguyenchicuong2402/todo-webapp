@@ -1,6 +1,6 @@
 {
-    "name": "{{PROJECT_NAME}}",
-    "short_name": "{{PROJECT_NAME}}",
+    "name": "todo-webapp",
+    "short_name": "todo-webapp",
     "theme_color": "#1976d2",
     "background_color": "#fafafa",
     "display": "standalone",
