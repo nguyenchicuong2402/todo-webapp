@@ -1,0 +1,12 @@
+package.json
+node_modules
+dist
+
+# Ignore artifacts:
+build
+coverage
+dist
+
+.angular
+.github
+.vscode
